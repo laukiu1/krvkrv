@@ -1,7 +1,7 @@
 git init
 npm i express dotenv mongoose
 npm i -D nodemon
-nmp i express-async-handler
+npm i express-async-handler
 npm i bcryptjs
 npm i jsonwebtoken
 
